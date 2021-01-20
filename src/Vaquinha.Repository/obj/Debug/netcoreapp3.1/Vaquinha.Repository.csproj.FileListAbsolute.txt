@@ -1,0 +1,15 @@
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.deps.json
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.runtimeconfig.json
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.runtimeconfig.dev.json
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.dll
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.pdb
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.csprojAssemblyReference.cache
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.AssemblyInfoInputs.cache
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.AssemblyInfo.cs
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.csproj.CoreCompileInputs.cache
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.csproj.CopyComplete
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.dll
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.pdb
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.genruntimeconfig.cache

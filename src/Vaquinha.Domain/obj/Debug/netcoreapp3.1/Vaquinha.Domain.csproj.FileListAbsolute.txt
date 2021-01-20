@@ -1,0 +1,9 @@
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.deps.json
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.csprojAssemblyReference.cache
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.AssemblyInfoInputs.cache
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.AssemblyInfo.cs
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.csproj.CoreCompileInputs.cache
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+E:\INTENSIVE_DEV_COURSES\csharp\crowdfounding\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
